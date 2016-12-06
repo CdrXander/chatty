@@ -1,0 +1,23 @@
+{
+  "name": "chatty",
+  "version": "1.0.0",
+  "description": "A simple full stack chat application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CdrXander/chatty.git"
+  },
+  "author": "Xander Hacking",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CdrXander/chatty/issues"
+  },
+  "homepage": "https://github.com/CdrXander/chatty#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0"
+  }
+}
